@@ -1,0 +1,12 @@
+ANNEE P:
+Arabe,Arts,Francais,Mathematiques
+ANNEE 1:
+Arabe,Arts,Education Civil,Education Islamique,Education Scientifique,Mathematiques
+ANNEE 2:
+Arabe,Arts,Education Civil,Education Islamique,Education Scientifique,Mathematiques
+ANNEE 3:
+Anglais,Arabe,Arts,Education Civil,Education Islamique,Education Scientifique,Francais,Histoire et Geographie,Mathematiques
+ANNEE 4:
+Anglais,Arabe,Arts,Education Civil,Education Islamique,Education Scientifique,Francais,Histoire et Geographie,Mathematiques
+ANNEE 5:
+Anglais,Arabe,Arts,Education Civil,Education Islamique,Education Scientifique,Francais,Histoire et Geographie,Mathematiques

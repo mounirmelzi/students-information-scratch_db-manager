@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Melzi_Mounir_Karou_Yasmine_Groupe08_TP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Melzi_Mounir_Karou_Yasmine_Groupe08_TP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Melzi_Mounir_Karou_Yasmine_Groupe08_TP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="lib/TOVC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/TOVC.h" />
+		<Unit filename="lib/archive.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/archive.h" />
+		<Unit filename="lib/conio2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/conio2.h" />
+		<Unit filename="lib/functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/functions.h" />
+		<Unit filename="lib/gui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/gui.h" />
+		<Unit filename="lib/guiTools.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/guiTools.h" />
+		<Unit filename="lib/index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/index.h" />
+		<Unit filename="lib/student.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/student.h" />
+		<Unit filename="lib/utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/utils.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
